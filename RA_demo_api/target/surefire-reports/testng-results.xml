@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-16T17:31:10 IST" name="Suite" finished-at="2023-05-16T17:31:23 IST" duration-ms="12381">
+    <groups>
+    </groups>
+    <test started-at="2023-05-16T17:31:10 IST" name="Test" finished-at="2023-05-16T17:31:23 IST" duration-ms="12381">
+      <class name="demo.trelloAPI">
+        <test-method signature="createBoard()[pri:1, instance:demo.trelloAPI@69997e9d]" started-at="2023-05-16T17:31:10 IST" name="createBoard" finished-at="2023-05-16T17:31:20 IST" duration-ms="9634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBoard -->
+        <test-method signature="updateBoard()[pri:2, instance:demo.trelloAPI@69997e9d]" started-at="2023-05-16T17:31:20 IST" name="updateBoard" finished-at="2023-05-16T17:31:21 IST" duration-ms="917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateBoard -->
+        <test-method signature="deleteBoard()[pri:3, instance:demo.trelloAPI@69997e9d]" started-at="2023-05-16T17:31:21 IST" name="deleteBoard" finished-at="2023-05-16T17:31:23 IST" duration-ms="1714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteBoard -->
+      </class> <!-- demo.trelloAPI -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
